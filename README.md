@@ -1,6 +1,10 @@
 - 👋 Olá, meu nome é Filipe Alexandre
 - 👀 Estou interessado em aprender e me desenvolver na área de analise e desenvolvimento de softawares
-- 🌱 Atualmente estou aprendendo JavaScript
+- 🌱 Atualmente tenho conhecimento em:
+-       Python
+-       HTML & CSS
+-       Flask
+-       JavaScript
 - 📫 Para entrar em contato comigo, segue o perfil do meu linkedin: [filipealex08/](https://www.linkedin.com/in/filipealex08/)
 
 <!---
