@@ -7,6 +7,7 @@
 
 <hr>
 
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Alex08&langs_count=8&theme=tokyonight" alt="Anurag's GitHub stats" align="right"></a>
 
 ## 🛠️ Skills
 
