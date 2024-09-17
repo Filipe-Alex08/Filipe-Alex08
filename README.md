@@ -30,7 +30,7 @@
 ## 📫 How to Get in Touch
 - **E-mail**: Filipe.alex08@gmail.com
 - **LinkedIn**: [Filipe Alexandre] (https://www.linkedin.com/in/filipealex08/)
-- **Site Pessoal**: [Em Construção]
+- **Personal Website**: [Under construction]
 
 <!--
 ## 🎯 Objetivos Atuais
