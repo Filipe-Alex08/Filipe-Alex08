@@ -26,3 +26,14 @@
 
 ### Tools and technologies
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+## 📫 How to Get in Touch
+- **E-mail**: Filipe.alex08@gmail.com
+- **LinkedIn**: [Filipe Alexandre] (https://www.linkedin.com/in/filipealex08/)
+- **Site Pessoal**: [Em Construção]
+
+<!--
+## 🎯 Objetivos Atuais
+- Aprimorar minhas habilidades em [tecnologia/linguagem].
+- Contribuir para projetos de código aberto.
+- Compartilhar conhecimento através de posts e tutoriais.
